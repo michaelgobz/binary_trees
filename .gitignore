@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+# all the main files 
+*-main.c
 # Object files
 *.o
 *.ko
